@@ -5,4 +5,4 @@ Placeholder for a graphical literature review relevant for MLOps design of CT IC
 ![image](https://raw.githubusercontent.com/petteriTeikari/CT_Hemorrhage_LiteratureReview/master/uploads/CT_for_ICH.png)
 
 https://github.com/petteriTeikari/CT_Hemorrhage_LiteratureReview/wiki
-https://www.slideshare.net/PetteriTeikariPhD/intracerebral-hemorrhage-ich-understanding-the-ct-imaging-features
+https://www.slideshare.net/PetteriTeikariPhD/intracerebral-hemorrhage-ich-understanding-the-ct-imaging-features-238764639
